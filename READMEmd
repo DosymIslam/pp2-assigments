@@ -1,0 +1,36 @@
+
+---
+
+## 🐍 Python Topics Covered
+
+### 🔹 variables.py
+- Declaring variables
+- Assigning values
+- Printing variables
+
+### 🔹 outputs.py
+- Using `print()`
+- Printing text and variables
+
+### 🔹 numbers.py
+- Integer and float numbers
+
+### 🔹 casting.py
+- Converting between data types
+- `int()`, `float()`
+
+### 🔹 strings.py
+- String creation
+- String length
+- Basic string operations
+
+---
+
+## 📌 Notes
+All files were created while studying Python basics from  
+**W3Schools (HOME → Python Strings)**.
+
+---
+
+## 👤 Author
+Islam
